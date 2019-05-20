@@ -50,7 +50,7 @@ sudo apt install libopencv-dev libqglviewer-dev freeglut3-dev libqt4-dev
 #### Install these packages:
 
 ```bash
-sudo apt install libopencv-dev libqglviewer-dev freeglut3-dev libqt5-dev
+sudo apt install libopencv-dev libqglviewer-dev freeglut3-dev qtbase5-dev 
 ```
 </details>
 
